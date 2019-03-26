@@ -1,0 +1,33 @@
+body {
+  width: 100%;
+}
+
+header{
+  width: 100%;
+  height: 3em;
+  background-color: lightslategray;
+}
+
+main{
+  width: 100%;
+}
+
+.content{
+ background-color: salmon;
+}
+
+.left{
+  background-color: aquamarine;
+}
+
+.right{
+  background-color: mediumseagreen;
+}
+
+footer{
+  background-color: blueviolet;
+}
+/* 
+@media (min-width: 421px){
+
+} */
